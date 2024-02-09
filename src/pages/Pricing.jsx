@@ -1,5 +1,5 @@
 function Pricing() {
-  return <div></div>;
+  return <div>Pricing</div>;
 }
 
 export default Pricing;
