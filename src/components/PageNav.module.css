@@ -7,3 +7,7 @@
   display: flex;
   justify-content: space-between;
 }
+/* :global() method to make style global, this turns active navigation green */
+.nav :global(.active) {
+  background-color: green;
+}
