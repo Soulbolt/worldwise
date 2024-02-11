@@ -37,18 +37,6 @@
       "id": 98443197
     },
     {
-      "cityName": "Marseille",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2024-02-11T19:50:04.295Z",
-      "notes": "TEsteen",
-      "position": {
-        "lat": "43.197167282501276",
-        "lng": "5.405273437500001"
-      },
-      "id": 98443198
-    },
-    {
       "cityName": "Guadalajara",
       "country": "Mexico",
       "emoji": "🇲🇽",
